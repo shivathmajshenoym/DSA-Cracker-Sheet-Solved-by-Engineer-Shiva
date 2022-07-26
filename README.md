@@ -11,3 +11,7 @@
 // DSA ARRAY #5 Move all negative numbers to left side in an array
 
 // DSA ARRAY #6 Find Union and Intersection of Two Arrays
+
+// DSA ARRAY #7 Cyclically Rotate Array Elements One by One
+
+// DSA ARRAY #8 Max Contiguous Subarray Sum
